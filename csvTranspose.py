@@ -3,7 +3,7 @@ import csv
 import numpy as np
 
 Dlm = '\t'          # Delimiter of CSV file
-Prefix = "t_"       # Prefix of output files
+Prefix = "t_"       # Prefix for output files
 
 
 
