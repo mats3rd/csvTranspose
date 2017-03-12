@@ -14,7 +14,7 @@ def main():
 
     # Usage...
     if (argc != 2):
-        print("    Usage: # python csvTranspose.py <original file>")
+        print("    Usage: # python csvTranspose.py <original CSV file>")
         print()
         quit()
 
